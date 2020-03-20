@@ -1,5 +1,5 @@
 # kg_DishantNaik_2021
-main.py is a python code created for the purpose of techinical assesment.
+main.py is a python program created for the purpose of techinical assesment.
 This program checks weather string s1 and string s2 can be maped on one to one relationship or not (Or strings are isomorphic or not)
 
 Program returns "true" if s2 can be mapped from s1 and "false" if not
